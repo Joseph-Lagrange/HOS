@@ -11,7 +11,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 /**
  * Author: DiBin
  * Date: Created in 2021/3/23 20:17
- * Description: Test Base
+ * Description: Base Test
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @Import(HosDataSourceConfig.class)
