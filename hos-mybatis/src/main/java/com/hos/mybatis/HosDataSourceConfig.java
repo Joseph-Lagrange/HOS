@@ -23,7 +23,6 @@ import org.springframework.core.io.ResourceLoader;
  * Date: Created in 2021/3/23 19:58
  * Description: Database Connection Configuration
  */
-
 @Configuration
 @MapperScan(basePackages = HosDataSourceConfig.PACKAGE,
         sqlSessionFactoryRef = "HosSqlSessionFactory")

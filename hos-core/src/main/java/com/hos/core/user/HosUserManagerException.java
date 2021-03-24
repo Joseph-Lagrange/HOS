@@ -1,4 +1,4 @@
-package com.hos.user;
+package com.hos.core.user;
 
 import com.hos.core.HosException;
 

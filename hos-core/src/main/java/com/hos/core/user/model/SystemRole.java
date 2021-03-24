@@ -1,4 +1,4 @@
-package com.hos.user.model;
+package com.hos.core.user.model;
 
 /**
  * Author: DiBin

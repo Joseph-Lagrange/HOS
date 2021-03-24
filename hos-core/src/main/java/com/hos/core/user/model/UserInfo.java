@@ -1,6 +1,6 @@
-package com.hos.user.model;
+package com.hos.core.user.model;
 
-import com.hos.user.CoreUtil;
+import com.hos.core.user.CoreUtil;
 
 import java.util.Date;
 
